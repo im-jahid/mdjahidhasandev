@@ -1,4 +1,8 @@
-# 💫 About Me:
+<a> Hi there, I'm Mohammad Jahid Hasan👨‍💻 </a>
+<a> Welcome to my GitHub's World👋 <br></br>
+I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀 </a>
+
+
 🔭 I’m currently working on MERN Stack<br><br>🌱 I’m currently learning Express JS<br><br>👯 I’m looking to collaborate on Blockchain<br><br>🤝 I’m looking for help with Python<br><br>💬 Ask me about Tech World<br><br>📫 How to reach mejahidhasandev492@gmail.com<br><br>⚡ Fun fact Travelling
 
 
@@ -14,12 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdjahidhasandev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdjahidhasandev&icon=5&color=11)](https://visitcount.itsvg.in)
