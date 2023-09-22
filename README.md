@@ -1,4 +1,4 @@
-<a> Hi there, I'm Mohammad Jahid Hasan👨‍💻 </a>
+Hi there, I'm Mohammad Jahid Hasan👨‍💻 <br></br>
 <a> Welcome to my GitHub's World👋 <br></br>
 I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀 </a>
 
